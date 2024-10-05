@@ -3176,6 +3176,12 @@ input, select, textarea {
 			display: -webkit-flex;
 			display: -ms-flex;
 			display: flex;
+                        justify-content: center; /* Ensures the content inside is centered */
+    align-items: center;
+    width: 100%; /* Full width to ensure content spreads evenly */
+    max-width: 1200px; /* Optional: limit maximum width */
+    flex-wrap: wrap; /* Ensure content wraps properly */
+    text-align: center; /* Center text inside sections */
 			-moz-flex-wrap: wrap;
 			-webkit-flex-wrap: wrap;
 			-ms-flex-wrap: wrap;
