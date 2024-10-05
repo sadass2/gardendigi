@@ -3172,6 +3172,7 @@ input, select, textarea {
 		#footer > .inner {
 			display: -moz-flex;
 			display: -webkit-flex;
+                        margin-left: 280px;
 			display: -ms-flex;
 			display: flex;
                         justify-content: center; /* Ensures the content inside is centered */
@@ -3198,7 +3199,8 @@ input, select, textarea {
 
 			#footer > .inner section:nth-child(1) {
 				width: calc(44% - 2.5em);
-				margin-right: 9em;
+				margin-left: 21em;
+
 			}
 
 			#footer > .inner section:nth-child(2) {
