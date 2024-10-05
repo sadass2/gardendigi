@@ -3164,8 +3164,7 @@ input, select, textarea {
 
 /* Footer */
 	
-	#footer {
-	# {
+        #footer {
 		padding: 5em 0 6em 0 ;
 		background-color: #181825;
 	}
@@ -3196,7 +3195,7 @@ input, select, textarea {
 			}
 
 			#footer > .inner section:nth-child(1) {
-				width: calc(66% - 2.5em);
+				width: calc(44% - 2.5em);
 				margin-right: 2.8em;
 			}
 
