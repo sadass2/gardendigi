@@ -3192,7 +3192,6 @@ input, select, textarea {
 
 			#footer > .inner > * > :last-child {
 				margin: 0 auto;
-                                transform: translateX(20px); /* Move 20px to the right */
 }
 
 			}
@@ -3204,7 +3203,7 @@ input, select, textarea {
 
 			#footer > .inner section:nth-child(2) {
 				width: calc(33% - 2.5em);
-				margin-left: 2.5em;
+				margin-left: 2.9em;
 			}
 
 			#footer > .inner .copyright {
