@@ -3172,7 +3172,7 @@ input, select, textarea {
 		#footer > .inner {
 			display: -moz-flex;
 			display: -webkit-flex;
-                        margin-left: 280px;
+                        margin-left: 320px;
 			display: -ms-flex;
 			display: flex;
                         justify-content: center; /* Ensures the content inside is centered */
